@@ -13,3 +13,11 @@ RM: deployment will be done using the best in class puppet and chef and travis a
 # Kuch kuch hota hai
 
 RM: Newness added and MD5 sums checked
+
+# Just add
+
+RM: Let's just add this and not commit
+
+## Lastly
+
+This is a simple web project, deployment can only be done on any web server like python anywhere
