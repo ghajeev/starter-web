@@ -25,3 +25,7 @@ This is a simple web project, deployment can only be done on any web server like
 ### Copyright
 
 RM: This is my righteousness message
+
+## HOW TO CONTRIBUTE BHAIYYA
+
+RM: Making some changes to the master branch and already made changes to another branch, so now we will need to do an automatic merge
