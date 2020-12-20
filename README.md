@@ -21,3 +21,7 @@ RM: Let's just add this and not commit
 ## Lastly
 
 This is a simple web project, deployment can only be done on any web server like python anywhere
+
+### Copyright
+
+RM: This is my righteousness message
