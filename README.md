@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-RM: This repository is for showing how Git and GitHub work. Adding a line for rebasing bhaiyya
+RM: This repository is for showing how Git and GitHub work. Adding a line for rebasing bhaiyya. Now adding more changes from myfeatchoo branchooz
 
 ## Purpose
 
